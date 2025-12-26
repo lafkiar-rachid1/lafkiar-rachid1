@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Rachid LAFKIAE
+# 👋 Hi, I'm LAFKIAR rachid
 
 Aspiring Cybersecurity Professional | Student at ENSET Mohammadia
 
@@ -52,31 +52,6 @@ I'm deepening my expertise in:
 - 🎓 Industry certifications preparation (CEH, OSCP, CompTIA Security+)
 
 ---
-
-## 📊 GitHub Stats
-
-<div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lafkiar-rachid1&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=lafkiar-rachid1&theme=radical&hide_border=true&background=0d1117)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lafkiar-rachid1&layout=compact&theme=radical&hide_border=true&bg_color=0d1117)
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-![Trophy](https://github-profile-trophy.vercel.app/?username=lafkiar-rachid1&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1)
-
-</div>
-
----
-
 ## 💭 Random Cybersecurity Quote
 
 <div align="center">
@@ -114,16 +89,6 @@ I'm deepening my expertise in:
 <div align="center">
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=lafkiar-rachid1&theme=react-dark&hide_border=true&area=true)
-
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-![Snake animation](https://raw.githubusercontent.com/lafkiar-rachid1/lafkiar-rachid1/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
