@@ -57,11 +57,11 @@ I'm deepening my expertise in:
 
 <div align="center">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lafkiar-rachid1&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical&hide_border=true&background=0d1117)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=lafkiar-rachid1&theme=radical&hide_border=true&background=0d1117)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical&hide_border=true&bg_color=0d1117)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lafkiar-rachid1&layout=compact&theme=radical&hide_border=true&bg_color=0d1117)
 
 </div>
 
@@ -71,7 +71,7 @@ I'm deepening my expertise in:
 
 <div align="center">
 
-![Trophy](https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1)
+![Trophy](https://github-profile-trophy.vercel.app/?username=lafkiar-rachid1&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1)
 
 </div>
 
@@ -91,7 +91,7 @@ I'm deepening my expertise in:
 
 <div align="center">
 
-![Top Repo](https://github-contributor-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&limit=3&theme=radical&hide_border=true&bg_color=0d1117)
+![Top Repo](https://github-contributor-stats.vercel.app/api?username=lafkiar-rachid1&limit=3&theme=radical&hide_border=true&bg_color=0d1117)
 
 </div>
 
@@ -101,11 +101,9 @@ I'm deepening my expertise in:
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](YOUR_TWITTER_URL)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_GITHUB_USERNAME)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](YOUR_PORTFOLIO_URL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rachid-lafkiar-94ab61370/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rachidlafkiar55@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lafkiar-rachid)
 
 </div>
 
@@ -115,7 +113,7 @@ I'm deepening my expertise in:
 
 <div align="center">
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=react-dark&hide_border=true&area=true)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=lafkiar-rachid1&theme=react-dark&hide_border=true&area=true)
 
 </div>
 
@@ -125,7 +123,7 @@ I'm deepening my expertise in:
 
 <div align="center">
 
-![Snake animation](https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://raw.githubusercontent.com/lafkiar-rachid1/lafkiar-rachid1/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
@@ -135,15 +133,8 @@ I'm deepening my expertise in:
 
 ### 🔒 "Security is not a product, but a process." - Bruce Schneier
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=red&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=lafkiar-rachid1&color=red&style=for-the-badge)
 
 </div>
 
 ---
-
-**⚠️ Important: Replace the following before using:**
-- `YOUR_GITHUB_USERNAME` → Your actual GitHub username
-- `YOUR_LINKEDIN_URL` → Your LinkedIn profile URL
-- `YOUR_EMAIL` → Your email address
-- `YOUR_TWITTER_URL` → Your Twitter profile URL
-- `YOUR_PORTFOLIO_URL` → Your portfolio website URL
