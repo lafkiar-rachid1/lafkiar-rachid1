@@ -6,7 +6,7 @@ Aspiring Cybersecurity Professional | Student at ENSET Mohammadia
 
 ## 👨‍🎓 About Me
 
-I'm LAFKIAR Rachid, currently studying at the **National School of Applied Sciences and Technologies (ENSET) in Mohammadia**.  
+I'm LAFKIAR Rachid, currently studying at the ** École Normale Supérieure de l'Enseignement Technique (ENSET) de Mohammedia**.  
 My focus is on **Cybersecurity** 🔐, with strong interests in **Ethical Hacking** 🎯, **Network Security** 🌐, **Penetration Testing** 🛡️, **Digital Forensics** 🔍, and **Security Operations** 🚨.  
 I'm passionate about protecting digital assets and building secure systems for tomorrow's challenges.
 
