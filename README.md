@@ -18,12 +18,6 @@ I focus on building practical skills through labs, projects, and CTF challenges.
 🌍 **Visit my portfolio:**  
 👉 https://lafkiar-rachid.vercel.app/
 
-You will find:
-- Technical projects
-- Cybersecurity labs & experiments
-- Academic background
-- Contact information
-
 ---
 
 ## 🎯 Current Focus  
@@ -48,7 +42,7 @@ You will find:
 ## 📫 Connect With Me  
 
 - 💼 LinkedIn: https://www.linkedin.com/in/rachid-lafkiar-94ab61370/  
-- 📧 Email: rachidlafkiar55@gmail.com  
+- 📧 Email: rachid.lafkiar1@gmail.com  
 - 🌐 Portfolio: https://lafkiar-rachid.vercel.app/
 
 ---
