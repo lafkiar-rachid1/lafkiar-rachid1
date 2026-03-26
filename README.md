@@ -25,11 +25,13 @@ Alongside cybersecurity, I am also developing solid software engineering skills 
 
 ## GitHub Analytics
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=lafkiar-rachid1&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="GitHub Stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lafkiar-rachid1&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Top Languages" />
+<p align="center">
+	<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=lafkiar-rachid1&theme=tokyonight" alt="GitHub Stats" />
+	<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lafkiar-rachid1&theme=tokyonight" alt="Top Languages" />
+</p>
 
 <p align="center">
-	<img src="https://github-readme-activity-graph.vercel.app/graph?username=lafkiar-rachid1&theme=react-dark&hide_border=true" alt="Contribution Graph" />
+	<img src="https://ghchart.rshah.org/00d4ff/lafkiar-rachid1" alt="Contribution Graph" />
 </p>
 
 ---
