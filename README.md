@@ -11,6 +11,8 @@ I am a cybersecurity student at École Normale Supérieure de l'Enseignement Tec
 
 My approach combines offensive thinking with defensive discipline. I build practical skills through hands-on labs, real-world projects, and Capture The Flag competitions — not just to pass exams, but to understand how threats actually operate in the wild.
 
+At the same time, I am also developing a strong foundation in software development through academic and personal projects, with an interest in building secure and scalable applications for web, mobile, and desktop environments.
+
 My long-term goal is to work at the intersection of red and blue team operations, contributing to SOC environments where detection, response, and continuous improvement matter.
 
 ---
@@ -22,6 +24,7 @@ My long-term goal is to work at the intersection of red and blue team operations
 - Cloud Security fundamentals (architecture, IAM, misconfigurations)  
 - Malware Analysis — static and dynamic approaches  
 - Certification preparation: Security+, CEH, and OSCP
+- Secure software development practices (web, mobile, and desktop)
 
 ---
 
@@ -45,6 +48,9 @@ Log analysis, SIEM fundamentals, threat detection concepts, incident response ba
 
 **Tools & Platforms**  
 Burp Suite, Nmap, Wireshark, Metasploit, Linux environments, basic scripting (Python, Bash)
+
+**Software Development**  
+Web development fundamentals, frontend integration, backend logic, database usage, and secure coding mindset
 
 **Currently Learning**  
 Cloud security (AWS/Azure fundamentals), malware behavior analysis, advanced Active Directory attacks and defenses
