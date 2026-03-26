@@ -31,7 +31,7 @@ Alongside cybersecurity, I am also developing solid software engineering skills 
 </p>
 
 <p align="center">
-	<img src="https://ghchart.rshah.org/00d4ff/lafkiar-rachid1" alt="Contribution Graph" />
+	<img src="https://github-readme-activity-graph.vercel.app/graph?username=lafkiar-rachid1&theme=react-dark&hide_border=true" alt="Contribution Graph" />
 </p>
 
 ---
