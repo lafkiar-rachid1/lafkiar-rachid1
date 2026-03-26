@@ -3,83 +3,97 @@
 Cybersecurity Student — ENSET Mohammedia  
 Aspiring Penetration Tester · Blue Team Enthusiast · Future SOC Analyst
 
+```bash
+$ whoami
+LAFKIAR Rachid
+
+$ role --current
+Cybersecurity Student + Security-Oriented Developer
+```
+
 ---
 
-## About
+## Profile
 
-I am a cybersecurity student at École Normale Supérieure de l'Enseignement Technique (ENSET) Mohammedia, driven by a genuine curiosity about how systems are built, broken, and defended.
+I am a cybersecurity student at École Normale Supérieure de l'Enseignement Technique (ENSET) Mohammedia, curious about how systems are built, attacked, and defended.
 
-My approach combines offensive thinking with defensive discipline. I build practical skills through hands-on labs, real-world projects, and Capture The Flag competitions — not just to pass exams, but to understand how threats actually operate in the wild.
+My approach combines offensive thinking with defensive discipline. I build practical skills through labs, real-world projects, and Capture The Flag challenges.
 
-At the same time, I am also developing a strong foundation in software development through academic and personal projects, with an interest in building secure and scalable applications for web, mobile, and desktop environments.
+Alongside cybersecurity, I am also developing solid software engineering skills through web, mobile, and desktop projects, with a strong focus on secure development practices.
 
-My long-term goal is to work at the intersection of red and blue team operations, contributing to SOC environments where detection, response, and continuous improvement matter.
+---
+
+## GitHub Analytics
+
+<p align="center">
+	<img height="170" src="https://github-readme-stats.vercel.app/api?username=lafkiar-rachid1&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats" />
+	<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lafkiar-rachid1&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+
+<p align="center">
+	<img src="https://github-readme-activity-graph.vercel.app/graph?username=lafkiar-rachid1&theme=react-dark&hide_border=true" alt="Contribution Graph" />
+</p>
 
 ---
 
 ## Current Focus
 
-- Advanced Web Exploitation techniques and methodology  
-- SIEM platforms and structured log analysis  
-- Cloud Security fundamentals (architecture, IAM, misconfigurations)  
-- Malware Analysis — static and dynamic approaches  
-- Certification preparation: Security+, CEH, and OSCP
-- Secure software development practices (web, mobile, and desktop)
+- Advanced web exploitation techniques and methodology
+- SIEM platforms and structured log analysis
+- Cloud security fundamentals (architecture, IAM, misconfigurations)
+- Malware analysis (static and dynamic)
+- Certification preparation: Security+, CEH, OSCP
+- Secure software development (web, mobile, desktop)
 
 ---
 
-## Projects & Labs
+## Projects and Labs
 
-I document my learning through practical work. You can explore my labs, write-ups, and projects on my portfolio:
+I document my learning through practical projects, labs, and write-ups.
 
-**Portfolio:** [lafkiar-rachid.vercel.app](https://lafkiar-rachid.vercel.app/)
+Portfolio: [lafkiar-rachid.vercel.app](https://lafkiar-rachid.vercel.app/)
 
-Topics covered include web vulnerability analysis, network traffic inspection, CTF write-ups, and tool development for security workflows.
+Main topics: web vulnerability analysis, network traffic inspection, CTF write-ups, and security-oriented tool development.
 
 ---
 
 ## Skills
 
 **Offensive Security**  
-Web application testing, reconnaissance, vulnerability exploitation, CTF problem-solving
+Web testing, reconnaissance, vulnerability exploitation, CTF problem-solving
 
 **Defensive Security**  
-Log analysis, SIEM fundamentals, threat detection concepts, incident response basics
+Log analysis, SIEM fundamentals, detection concepts, incident response basics
 
-**Tools & Platforms**  
-Burp Suite, Nmap, Wireshark, Metasploit, Linux environments, basic scripting (Python, Bash)
+**Tools and Platforms**  
+Burp Suite, Nmap, Wireshark, Metasploit, Linux, Python, Bash
 
 **Software Development**  
-Web development fundamentals, frontend integration, backend logic, database usage, and secure coding mindset
-
-**Currently Learning**  
-Cloud security (AWS/Azure fundamentals), malware behavior analysis, advanced Active Directory attacks and defenses
+Frontend and backend fundamentals, database integration, and secure coding mindset
 
 ---
 
 ## 2026 Goals
 
-- Compete in national and international CTF competitions  
-- Obtain the CompTIA Security+ certification  
-- Secure a meaningful cybersecurity internship  
-- Deepen Blue Team expertise with hands-on SOC simulation
+- Compete in national and international CTF competitions
+- Obtain the CompTIA Security+ certification
+- Secure a meaningful cybersecurity internship
+- Deepen Blue Team and SOC operational skills
 
 ---
 
 ## Education
 
-**École Normale Supérieure de l'Enseignement Technique (ENSET) — Mohammedia**  
-Cybersecurity Program — In progress
+École Normale Supérieure de l'Enseignement Technique (ENSET) — Mohammedia  
+Cybersecurity Program — In Progress
 
 ---
 
 ## Contact
 
-I am open to collaboration, internship opportunities, and conversations about cybersecurity.
-
-- LinkedIn: [linkedin.com/in/rachid-lafkiar-94ab61370](https://www.linkedin.com/in/rachid-lafkiar-94ab61370/)  
-- Email: rachid.lafkiar1@gmail.com  
-- Portfolio: [lafkiar-rachid.vercel.app](https://lafkiar-rachid.vercel.app/)
+LinkedIn: [linkedin.com/in/rachid-lafkiar-94ab61370](https://www.linkedin.com/in/rachid-lafkiar-94ab61370/)  
+Email: rachid.lafkiar1@gmail.com  
+Portfolio: [lafkiar-rachid.vercel.app](https://lafkiar-rachid.vercel.app/)
 
 ---
 
