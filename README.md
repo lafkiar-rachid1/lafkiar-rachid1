@@ -8,7 +8,7 @@ $ whoami
 LAFKIAR Rachid
 
 $ role --current
-Cybersecurity Student + Security-Oriented Developer
+Cybersecurity Student
 ```
 
 ---
